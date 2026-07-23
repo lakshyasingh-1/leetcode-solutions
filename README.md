@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1260-shift-2d-grid](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Dynamic Programming
 |  |
