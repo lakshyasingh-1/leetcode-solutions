@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0372-super-pow) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -100,8 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0372-super-pow) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
