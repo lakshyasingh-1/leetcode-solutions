@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [1748-sum-of-unique-elements](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [3583-count-special-triplets](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3583-count-special-triplets) |
 | [3866-first-unique-even-element](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 ## Linked List
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1748-sum-of-unique-elements](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2104-sum-of-subarray-ranges](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1748-sum-of-unique-elements](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [3583-count-special-triplets](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3583-count-special-triplets) |
 | [3866-first-unique-even-element](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 ## Heap (Priority Queue)
