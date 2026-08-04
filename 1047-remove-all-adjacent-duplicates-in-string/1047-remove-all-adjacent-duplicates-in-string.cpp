@@ -4,7 +4,7 @@ public:
         stack<char> st;
         string ans = "";
         for(char c : s){
-            if(!st.size()==0 && st.top() == c){
+            if(st.size()!=0 && st.top() == c){
                 st.pop();
             }else{
                 st.push(c);
