@@ -22,9 +22,6 @@ public:
     }
 
     int getMin() {
-        if (st2.empty())
-            return -1;
-        else
             return st2.top();
     }
 };
