@@ -6,8 +6,9 @@ public:
 
     void push(int value) {
         st1.push(value);
-        if (st2.empty() || value <= st2.top())
+        if (st2.empty() || value <= st2.top()) {
             st2.push(value);
+        }
     }
 
     void pop() {
@@ -17,13 +18,13 @@ public:
         st1.pop();
     }
 
-    int top() {
-            return st1.top();
-    }
+    int top() { 
+        return st1.top(); 
+        }
 
-    int getMin() {
-            return st2.top();
-    }
+    int getMin() { 
+        return st2.top(); 
+        }
 };
 
 /**
