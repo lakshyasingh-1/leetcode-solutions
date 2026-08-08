@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -74,12 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -201,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0155-min-stack) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
