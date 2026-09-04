@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3583-count-special-triplets) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3866-first-unique-even-element](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3866-first-unique-even-element) |
+| [3903-smallest-stable-index-i](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3903-smallest-stable-index-i](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Enumeration
 |  |
 | ------- |
