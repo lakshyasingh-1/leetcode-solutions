@@ -279,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
