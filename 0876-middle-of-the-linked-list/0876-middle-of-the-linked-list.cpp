@@ -12,9 +12,7 @@ class Solution {
 public:
     ListNode* middleNode(ListNode* head) 
     {
-        if(head == NULL || head -> next == NULL){
-            return head;
-        }
+        
 
         ListNode* t = head;
         int count = 0;
