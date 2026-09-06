@@ -1,6 +1,6 @@
 class MinStack {
 public:
-    stack<int> st1; //original stack
+    stack<int> st1; // original stack
     stack<int> st2; // minimum stack
     MinStack() {}
 
@@ -18,13 +18,9 @@ public:
         st1.pop();
     }
 
-    int top() { 
-        return st1.top(); 
-        }
+    int top() { return st1.top(); }
 
-    int getMin() { 
-        return st2.top(); 
-        }
+    int getMin() { return st2.top(); }
 };
 
 /**
