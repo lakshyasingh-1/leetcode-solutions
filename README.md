@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Array
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
