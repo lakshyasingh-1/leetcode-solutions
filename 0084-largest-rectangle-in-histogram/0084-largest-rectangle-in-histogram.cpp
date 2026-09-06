@@ -11,8 +11,8 @@ public:
                 st.pop();
             }
 
-            left[i] = st.empty() ? -1 : st.top();
-
+            if(st.size()==0) left[i] = -1;
+            else left[i] = st.top();
             st.push(i); 
         }
 
@@ -23,7 +23,8 @@ public:
                 st.pop();
             }
 
-            right[i] = st.empty() ? n : st.top();
+            if(st.size()==0) right[i] = n;
+            else right[i] = st.top();
 
             st.push(i); 
         }
