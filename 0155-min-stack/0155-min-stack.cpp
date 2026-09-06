@@ -6,16 +6,16 @@ public:
 
     void push(int value) {
         st1.push(value);
-        if (st2.empty() || value <= st2.top()) {
+        if (st2.empty() || value < st2.top()) {
             st2.push(value);
+        } else {
+            st2.push(st2.top());
         }
     }
 
     void pop() {
-        if (st1.top() == st2.top()) {
-            st2.pop();
-        }
         st1.pop();
+        st2.pop();
     }
 
     int top() { return st1.top(); }
