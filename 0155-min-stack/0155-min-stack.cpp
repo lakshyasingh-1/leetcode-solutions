@@ -1,7 +1,7 @@
 class MinStack {
 public:
-    stack<int> st1;
-    stack<int> st2;
+    stack<int> st1; //original stack
+    stack<int> st2; // minimum stack
     MinStack() {}
 
     void push(int value) {
