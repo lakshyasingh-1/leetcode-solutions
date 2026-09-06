@@ -2,6 +2,7 @@ class Solution {
 public:
     bool isValid(string s) {
         stack<char> stack;
+        if(s.length()%2==1) return false;
         for (char c : s) {
             if (c == '(' || c == '[' || c == '{') {
                 stack.push(c);
