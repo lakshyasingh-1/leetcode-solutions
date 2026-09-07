@@ -6,42 +6,36 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
 public:
+    int levels(TreeNode* root) {
+        if (root == NULL)
+            return 0;
+        int left = levels(root->left);
+        int right = levels(root->right);
+        return max(left, right) + 1;
+    }
     vector<vector<int>> levelOrder(TreeNode* root) {
-        vector<vector<int>>ans;
-        if(root==NULL)
-        {
-            return ans;
-        }
-        
-        queue<TreeNode*>q;
-        q.push(root);
-        q.push(NULL);
-        vector<int>temp;
-        while(!q.empty())
-        {
-            TreeNode*frontN=q.front();
-            q.pop();
-            if(frontN==NULL)
-            {
-               ans.push_back(temp);
-               temp.clear();
-               if(!q.empty())
-               {
-                 q.push(NULL);
-               }
-            }else{
-                temp.push_back(frontN->val);
-                if(frontN->left!=NULL)
-                  q.push(frontN->left);
-                if(frontN->right!=NULL)
-                  q.push(frontN->right);
-            }
+        int n = levels(root);
+        vector<vector<int>> ans(n, vector<int>(0)) ;
+        queue<pair<TreeNode*, int>> q;
+        if (root != NULL)
+            q.push({root, 0});
 
+        while (!q.empty()) {
+            pair<TreeNode*, int> front = q.front();
+            q.pop();
+            TreeNode* node = front.first;
+            int lvl = front.second;
+            ans[lvl].push_back(node->val);
+            if (node->left != NULL)
+                q.push({node->left, lvl + 1});
+            if (node->right != NULL)
+                q.push({node->right, lvl + 1});
         }
         return ans;
     }
