@@ -12,27 +12,38 @@
  */
 class Solution {
 public:
-    TreeNode* invertTree(TreeNode* root) {
-        if (root == NULL)
-            return NULL;
-        swap(root->left, root->right);
-        invertTree(root->left);
-        invertTree(root->right);
-        return root;
-    }
-    bool isSameTree(TreeNode* p, TreeNode* q) {
-        if (p == NULL && q == NULL)
-            return true;
-        if (p == NULL || q == NULL)
-            return false;
-        if (p->val != q->val) {
-            return false;
-        }
-        return isSameTree(p->left, q->left) && isSameTree(p->right, q->right);
+    // TreeNode* invertTree(TreeNode* root) {
+    //     if (root == NULL)
+    //         return NULL;
+    //     swap(root->left, root->right);
+    //     invertTree(root->left);
+    //     invertTree(root->right);
+    //     return root;
+    // }
+    // bool isSameTree(TreeNode* p, TreeNode* q) {
+    //     if (p == NULL && q == NULL)
+    //         return true;
+    //     if (p == NULL || q == NULL)
+    //         return false;
+    //     if (p->val != q->val) {
+    //         return false;
+    //     }
+    //     return isSameTree(p->left, q->left) && isSameTree(p->right, q->right);
+    // }
+
+    // bool isSymmetric(TreeNode* root) {
+    //     invertTree(root->right);
+    //     return isSameTree(root->left, root->right);
+    // }
+
+    bool isInvert(TreeNode* p, TreeNode* q){
+        if(p == NULL && q == NULL) return true;
+        if(p == NULL || q == NULL) return false;
+        if(p->val != q->val) return false;
+        return isInvert(p->left, q->right) && isInvert(p->right, q->left);
     }
 
-    bool isSymmetric(TreeNode* root) {
-        invertTree(root->right);
-        return isSameTree(root->left, root->right);
+    bool isSymmetric(TreeNode* root){
+        return isInvert(root->left, root->right);
     }
 };
