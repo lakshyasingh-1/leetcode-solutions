@@ -12,13 +12,15 @@
  */
 class Solution {
 public:
-    vector<int> ans;
+    void dfs(TreeNode* root, vector<int>& ans) {
+        if (root == nullptr) return;
+        dfs(root->left, ans);
+        ans.push_back(root->val);
+        dfs(root->right, ans);
+    }
     vector<int> inorderTraversal(TreeNode* root) {
-        if (root != nullptr) {
-            inorderTraversal(root->left);
-            ans.push_back(root->val);
-            inorderTraversal(root->right);
-        }
+        vector<int> ans;
+        dfs(root, ans);
         return ans;
     }
 };
