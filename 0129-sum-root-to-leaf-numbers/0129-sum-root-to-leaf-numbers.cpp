@@ -20,7 +20,7 @@ public:
             return k;
         int l = solve(root->left, k);
         int r = solve(root->right, k);
-        return l+r;
+        return l + r;
     }
     int sumNumbers(TreeNode* root) { return solve(root, 0); }
 };
