@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [2236-root-equals-sum-of-children](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [2236-root-equals-sum-of-children](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
