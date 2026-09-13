@@ -12,20 +12,26 @@
  */
 class Solution {
 public:
-    int sumOfLeftLeaves(TreeNode* root) {
-        if (root == NULL)
-            return 0;
+    int ans;
 
-        int ans = 0;
+    void dfs(TreeNode* root) {
+        if (root == NULL) {
+            return;
+        }
 
         if (root->left != NULL) {
             if (root->left->left == NULL && root->left->right == NULL) {
                 ans += root->left->val;
-            } else {
-                ans += sumOfLeftLeaves(root->left);
             }
         }
-        ans += sumOfLeftLeaves(root->right);
+
+        dfs(root->left);
+        dfs(root->right);
+    }
+
+    int sumOfLeftLeaves(TreeNode* root) {
+        ans = 0;
+        dfs(root);
         return ans;
     }
 };
