@@ -14,7 +14,7 @@ class Solution {
 public:
     bool evaluateTree(TreeNode* root) {
         if (root->left == NULL and root->right == NULL)
-            return root->val == 1;
+            return root->val == 1 ? true : false;
         if (root->val == 2)
             return evaluateTree(root->left) or evaluateTree(root->right);
         return evaluateTree(root->left) and evaluateTree(root->right);
