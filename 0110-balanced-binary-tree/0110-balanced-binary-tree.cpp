@@ -13,17 +13,17 @@
 class Solution {
 public:
     bool ans;
-    int hight(TreeNode* root){
+    int height(TreeNode* root){
         if(root == NULL) return 0;
-        int left = hight(root -> left);
-        int right = hight(root-> right);
+        int left = height(root -> left);
+        int right = height(root -> right);
         if(abs(left-right)>1) ans = false;
         return max(left,right)+1;
     }
 
     bool isBalanced(TreeNode* root) {
         ans = true; // Tree is Balanced
-        hight(root);
+        height(root);
         return ans;
     }
 };
