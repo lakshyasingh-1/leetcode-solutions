@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0372-super-pow](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0372-super-pow) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Bit Manipulation
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Queue
 |  |
