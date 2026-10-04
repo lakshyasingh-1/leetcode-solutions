@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Monotonic Stack
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
 | ------- |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
