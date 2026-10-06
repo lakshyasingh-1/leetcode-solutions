@@ -1,12 +1,12 @@
 class Solution {
 public:
     int minAddToMakeValid(string s) {
-        int op = 0, count = 0;
+        int open = 0, close = 0;
         for(auto &ch : s){
-            if(ch == '(') op++;
-            else if(op == 0) count++;
-            else op--;
+            if(ch == '(') open++;
+            else if(open == 0) close++;
+            else open--;
         }
-        return op + count;
+        return open + close;
     }
 };
