@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0561-array-partition](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
