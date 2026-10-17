@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [1748-sum-of-unique-elements](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0856-score-of-parentheses) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0561-array-partition) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Counting
 |  |
