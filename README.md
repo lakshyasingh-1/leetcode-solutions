@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Stack
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0905-sort-array-by-parity](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0561-array-partition) |
+| [0905-sort-array-by-parity](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
