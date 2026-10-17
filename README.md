@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
