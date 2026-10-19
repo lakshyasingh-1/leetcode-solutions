@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Dynamic Programming
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
