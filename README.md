@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0372-super-pow) |
 | [0836-rectangle-overlap](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0836-rectangle-overlap) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
