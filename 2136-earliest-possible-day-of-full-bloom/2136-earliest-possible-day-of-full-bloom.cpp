@@ -1,24 +1,21 @@
 class Solution {
 public:
     int earliestFullBloom(vector<int>& pt, vector<int>& gt) {
-        vector<pair<int, int>> seeds;
         int n = pt.size();
+        vector<pair<int, int>> seed;
         for (int i = 0; i < n; i++) {
-            seeds.push_back({gt[i], pt[i]});
+            seed.push_back({gt[i], pt[i]});
         }
-
-        sort(seeds.rbegin(), seeds.rend());
+        sort(seed.rbegin(), seed.rend());
 
         int start = 0;
         int ans = 0;
-
         for (int i = 0; i < n; i++) {
+            int a = seed[i].first;
+            int b = seed[i].second;
 
-            int a = seeds[i].first;
-            int b = seeds[i].second;
-
-            start = start + b;
-            int total = start + a;
+            start+=b;
+            int total=start+a;
 
             ans = max(ans, total);
         }
