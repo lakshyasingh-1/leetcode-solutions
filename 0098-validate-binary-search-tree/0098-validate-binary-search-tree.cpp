@@ -25,8 +25,8 @@ public:
 
         inorder(root, ans);
 
-        for (int i = 1; i < ans.size(); i++) {
-            if (ans[i] <= ans[i - 1])
+        for (int i = 0; i < ans.size()-1; i++) {
+            if (ans[i] >= ans[i + 1])
                 return false;
         }
 
