@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1598-crawler-log-folder](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1903-largest-odd-number-in-string](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1903-largest-odd-number-in-string](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
