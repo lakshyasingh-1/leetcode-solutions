@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0503-next-greater-element-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0561-array-partition) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0372-super-pow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
