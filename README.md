@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [1260-shift-2d-grid](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Simulation
 |  |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1267-count-servers-that-communicate](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1748-sum-of-unique-elements](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [3583-count-special-triplets](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3583-count-special-triplets) |
 | [3866-first-unique-even-element](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3866-first-unique-even-element) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0669-trim-a-binary-search-tree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [1267-count-servers-that-communicate](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
@@ -504,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [1267-count-servers-that-communicate](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 ## DP on Trees
 |  |
 | ------- |
@@ -578,4 +583,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
