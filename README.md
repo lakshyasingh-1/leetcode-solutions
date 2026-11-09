@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 ## Geometry
 |  |
@@ -587,4 +592,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
