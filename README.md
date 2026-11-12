@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0414-third-maximum-number) |
