@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0338-counting-bits) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Quicksort
 |  |
