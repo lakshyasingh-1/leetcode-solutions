@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
