@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0051-n-queens](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0078-subsets) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0257-binary-tree-paths) |
@@ -647,4 +649,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
