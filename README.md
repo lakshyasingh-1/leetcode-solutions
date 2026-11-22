@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0085-maximal-rectangle) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0856-score-of-parentheses) |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0090-subsets-ii) |
