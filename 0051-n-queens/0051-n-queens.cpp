@@ -3,11 +3,11 @@ class Solution {
 public:
     vector<vector<string>> ans;
     bool valid(vector<string>& mat, int n, int r, int c) {
-        for (int i = 0; i < r; i++) {
+        for (int i = 0; i < r; i++) { //column
             if (mat[i][c] == 'Q')
                 return false;
         }
-        int i = r - 1;
+        int i = r - 1; //left diagonal
         int j = c - 1;
 
         while (i >= 0 && j >= 0) {
@@ -17,7 +17,7 @@ public:
             j--;
         }
 
-        i = r - 1;
+        i = r - 1; //right diagonal
         j = c + 1;
 
         while (i >= 0 && j < n) {
