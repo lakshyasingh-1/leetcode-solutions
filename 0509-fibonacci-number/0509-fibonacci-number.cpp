@@ -2,7 +2,7 @@ class Solution {
 public:
     int fib(int n) {
         int dp[3];
-        if (n == 0 or n == 1)
+        if (n <= 1)
             return n;
         dp[0] = 0;
         dp[1] = 1;
