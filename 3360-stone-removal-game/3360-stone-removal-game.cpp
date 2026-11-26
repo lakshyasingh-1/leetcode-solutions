@@ -1,12 +1,21 @@
 class Solution {
 public:
     bool canAliceWin(int n) {
-        int num = 10, r = 0;
-        while(n>=num){
-            n = n-num;
-            num--;
-            r++;
+        int turn=0;
+        int capacity=10;
+        while(n>=capacity)
+        {
+            n=n-capacity;
+            capacity--;
+            turn++;
         }
-        return r%2==1?true:false;
+        if(turn%2==0)
+        {
+            return false;
+        }
+        else
+        {
+            return true;
+        }
     }
 };
