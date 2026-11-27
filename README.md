@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [1137-n-th-tribonacci-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Sorting
 |  |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1137-n-th-tribonacci-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -687,4 +689,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/lakshyasingh-1/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
