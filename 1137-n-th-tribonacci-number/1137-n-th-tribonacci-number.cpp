@@ -1,13 +1,16 @@
 class Solution {
 public:
-    int dfs(int n, vector<int>& dp){
-        if(n == 0) return 0;
-        if(n<=2) return 1;
-        if(dp[n]!=-1) return dp[n];
-        return dp[n] = dfs(n-1,dp)+dfs(n-2, dp)+dfs(n-3, dp);
-    }
     int tribonacci(int n) {
-        vector<int> dp(n+1, -1);
-        return dfs(n, dp);
+        int a=0, b=1, c=1;
+        if(n==0) return 0;
+        if(n==1 || n==2) return 1;
+        if(n==2) return 2;
+        for(int i=3; i<=n; i++){
+            int temp = a+b+c;
+            a=b;
+            b=c; 
+            c=temp;
+        }
+        return c;
     }
 };
